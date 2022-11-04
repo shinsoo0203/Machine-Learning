@@ -1,0 +1,12 @@
+﻿
+주피터 노트북
+https://jupyter.org/install.html
+
+scikit learn 개발자사이트
+https://scikit-learn.org/stable/modules/classes.html
+
+벤츠 학습 예제
+https://www.kaggle.com/c/mercedes-benz-greener-manufacturing
+
+구글 코랩 (GPU노트북)
+https://colab.research.google.com/
